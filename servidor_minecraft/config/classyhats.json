@@ -1,0 +1,29 @@
+{
+	"blacklist_hats": [],
+	"loot_hat_from_chests": true,
+	"loot_hat_from_boss": true,
+	"custom_hats": [],
+	"hat_wearing_entities": [
+		"minecraft:zombie",
+		"minecraft:zombie_villager",
+		"minecraft:zombie_pigman",
+		"minecraft:wither_skeleton",
+		"minecraft:skeleton",
+		"minecraft:evocation_illager",
+		"minecraft:vex",
+		"minecraft:vindication_illager",
+		"minecraft:vindication_illager",
+		"minecraft:witch"
+	],
+	"chance_of_entities_wearing_hats": 0.05,
+	"__comment0": "The folder classyhats_resources will act as a resource pack for any custom hats you want to add.",
+	"__comment1": "Put any hat names from the default HATS you don't want in the blacklist.",
+	"__default_weight": 40,
+	"__example_custom_hat": [
+		{
+			"name": "example",
+			"weight": 2,
+			"elusive": true
+		}
+	]
+}
